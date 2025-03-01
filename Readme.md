@@ -1,3 +1,3 @@
 # Git
 
-Lets start the basics of git and github
+Basics of Git and Github
